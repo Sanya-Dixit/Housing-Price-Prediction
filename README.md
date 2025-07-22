@@ -59,22 +59,29 @@ This project uses **Linear Regression** to predict median housing prices in Cali
 ```bash
 git clone https://github.com/your-username/california-housing-price-prediction.git
 cd california-housing-price-prediction
+```
 
 2. Install Required Libraries
+```bash
 You can use the following requirements.txt:
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
-
+```
 Install them with:
+```bash
 pip install -r requirements.txt
-
+```
 3. Run the Notebook
+ 
 Open Jupyter Notebook and run:
-
+```bash
 jupyter notebook "California Housing price - Linear regression txclass.ipynb"
+```
+
+
 📄 License
 This project is open-source and available under the MIT License.
 
