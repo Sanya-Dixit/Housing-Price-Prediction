@@ -32,9 +32,10 @@ This project uses **Linear Regression** to predict median housing prices in Cali
 ## 📁 Project Structure
 
 📦 california-housing-price-prediction/
-├── California Housing price - Linear regression txclass.ipynb # Jupyter notebook with full analysis
-├── housing.csv # Dataset used for training/testing
-└── README.md # Project documentation
+├── California Housing price - Linear regression txclass.ipynb
+├── housing.csv 
+|__ requirements.txt
+└── README.md 
 
 ---
 
